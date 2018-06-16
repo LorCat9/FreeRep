@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "FreeRep",
+    "version": "1.0",
+    "description": "Estensione per leggere gratuitamente gli articoli della sezione \"Rep:\" dal sito di \"La Repubblica\"",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://rep.repubblica.it/*"
+            ],
+            "js": ["freeRep.js"]
+        }
+    ],
+    "browser_action": {
+        "default_icon": "images/Rep32.png",
+        "default_title": "FreeRep!"
+    },
+    "icons": {
+        "16": "images/Rep16.png" ,
+        "32": "images/Rep32.png",
+        "48": "images/Rep48.png",
+        "96": "images/Rep96.png",
+        "128": "images/Rep128.png"
+    }
+}

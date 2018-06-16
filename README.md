@@ -3,7 +3,7 @@ Estensione per Chrome che permette di leggere gli articoli di Repubblica della s
 
 ## Scaricala
 
-Link all'estensione:    
+Link all'estensione: [FreeRep](https://chrome.google.com/webstore/detail/freerep/aejgffdcnldbchplgleoedhhblfeidmo)
 
 ## Problemi Conosciuti
 Su Chrome non riesco ad accedere all'elemento tramite "document.getElementsByClassName" (non sono un esperto frontend ma facendo qualche prova da console mi sembra che non riesce a prendere gli elementi sotto "shadow-root").

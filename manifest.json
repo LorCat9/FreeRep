@@ -1,6 +1,7 @@
 {
     "manifest_version": 2,
     "name": "FreeRep",
+    "author": "LorCat",
     "version": "1.0",
     "description": "Estensione per leggere gratuitamente gli articoli della sezione \"Rep:\" dal sito di \"La Repubblica\"",
     "content_scripts": [

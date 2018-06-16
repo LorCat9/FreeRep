@@ -10,7 +10,7 @@ Su Chrome non riesco ad accedere all'elemento tramite "document.getElementsByCla
  
 Per questo motivo al momento ho dovuto trovare una soluzione diversa non elegantissima, qualunque soluzione diversa è ben accetta!
 ## Inspired By
-Ho praticamente riscritto per Chrome quello che era stato fatto per Firefox con l'estensione [FuckRep](https://github.com/lbolla/fuckrep)
+Ho praticamente riscritto per Chrome quello che era stato fatto per Firefox con l'estensione [FuckRep](https://addons.mozilla.org/it/firefox/addon/fuckrep/)
 
 ## Authors
 

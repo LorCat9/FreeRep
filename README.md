@@ -1,4 +1,4 @@
-# FreeRep!
+# FreeRep! [Not more working]
 Estensione per Chrome che permette di leggere gli articoli di Repubblica della sezione "Rep:" 
 
 ## Scaricala
